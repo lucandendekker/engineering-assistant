@@ -1,0 +1,16 @@
+FICTIONAL DEMONSTRATION DOCUMENT - NOT TOBROCO-GIANT GUIDANCE
+
+This invented document exists only to demonstrate document retrieval. It is
+not an engineering standard and must not be used for engineering decisions.
+
+Section 1: Document reviews
+In this fictional workflow, every drawing receives a peer review before release.
+The reviewer records their name, review date and drawing revision in a checklist.
+
+Section 2: File naming
+In this fictional workflow, drawing files use the pattern DEMO-part-revision.
+For example, DEMO-bracket-A identifies revision A of the example bracket.
+
+Section 3: Change tracking
+Every change in the fictional workflow has a short description and a revision
+identifier. The reviewer checks that the drawing and change log agree.

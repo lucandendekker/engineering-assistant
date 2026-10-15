@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+chroma_db/
+temp_pdfs/
+tobroco_manuals/
+documents/*
+!documents/.gitkeep
+*.log
+.ipynb_checkpoints/
